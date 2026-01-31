@@ -21,10 +21,10 @@ Watch the full project demonstration on YouTube:
 ## 📸 Sample Output Screenshots
 
 ### Detection Example 1
-![Detection Example 1](assets/boxing1.png)
+![Detection Example 1](boxing1.png)
 
 ### Detection Example 2
-![Detection Example 2](assets/boxing2.png)
+![Detection Example 2](boxing2.png)
 
 ---
 
